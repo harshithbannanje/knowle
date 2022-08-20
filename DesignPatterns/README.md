@@ -39,6 +39,7 @@ The second type of design pattern is the structural pattern. It provides a manne
 
 
 **#3 Behavioral Patterns**
+
 The final type of design pattern is the behavioral pattern. It defines manners of communication between classes and objects.
 
 **Chain Of Responsibility**: Avoid coupling the sender of a request to its receiver by giving more than one object a chance to handle the request. Chain the receiving objects and pass the request along the chain until an object handles it.
