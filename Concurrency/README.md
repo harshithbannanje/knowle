@@ -8,3 +8,8 @@ A **semaphore** does the same as a mutex but allows x number of threads to enter
 this can be used for example to limit the number of cpu, io or ram intensive tasks running at the same time.
 
 
+
+**Double Checked Locking**
+
+https://en.wikipedia.org/wiki/Double-checked_locking
+
