@@ -13,3 +13,8 @@ this can be used for example to limit the number of cpu, io or ram intensive tas
 
 https://en.wikipedia.org/wiki/Double-checked_locking
 
+
+**MySQL Deadlocks**
+
+https://www.percona.com/blog/mysql-deadlocks-are-our-friends/
+
