@@ -24,3 +24,8 @@ Therefore higher cordinality values mean:
 
 **worse performance of write-queries, because hidden index data is being updated.**
 
+
+
+**Partitioning**
+https://www.youtube.com/watch?v=l8kUZvM_rvQ
+
