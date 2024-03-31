@@ -18,3 +18,8 @@ https://en.wikipedia.org/wiki/Double-checked_locking
 
 https://www.percona.com/blog/mysql-deadlocks-are-our-friends/
 
+
+**CAS**
+
+https://en.wikipedia.org/wiki/Compare-and-swap
+
